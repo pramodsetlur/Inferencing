@@ -1,0 +1,13 @@
+{
+  "head" : {
+    "vars" : [ "sub" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "sub" : {
+        "type" : "uri",
+        "value" : "http://dbpedia.org/resource/C._L._Max_Nikias"
+      }
+    } ]
+  }
+}
